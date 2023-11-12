@@ -37243,7 +37243,7 @@ var BOTTOM_LINK_STYLE = {
   fontFamily: 'Arial',
   fontSize: '15px',
   align: 'left',
-  fill: 'white'
+  fill: 'black'
 };
 
 var Game = function () {
@@ -37792,7 +37792,7 @@ var Game = function () {
               fontFamily: 'Arial',
               fontSize: '18px',
               align: 'left',
-              fill: 'white'
+              fill: 'black'
             },
             location: _Stage2.default.scoreBoxLocation(),
             anchor: {
@@ -37836,7 +37836,7 @@ var Game = function () {
               fontFamily: 'Arial',
               fontSize: '14px',
               align: 'center',
-              fill: 'white'
+              fill: 'black'
             },
             location: _Stage2.default.waveStatusBoxLocation(),
             anchor: {
@@ -37881,7 +37881,7 @@ var Game = function () {
               fontFamily: 'Arial',
               fontSize: '40px',
               align: 'left',
-              fill: 'white'
+              fill: 'black'
             },
             location: _Stage2.default.gameStatusBoxLocation()
           });
@@ -38619,7 +38619,7 @@ var Hud = function (_Container) {
           fontFamily: 'Arial',
           fontSize: '18px',
           align: 'left',
-          fill: 'white'
+          fill: 'black'
         },
         location: new _pixi.Point(0, 0),
         anchor: {
@@ -48897,7 +48897,7 @@ module.exports = {"src":["audio.ogg","audio.mp3"],"sprite":{"barkDucks":[0,1462.
 /* 325 */
 /***/ (function(module, exports) {
 
-module.exports = {"normal":[{"id":1,"title":"Level 1","waves":3,"ducks":2,"pointsPerDuck":100,"speed":5,"bullets":3,"radius":60,"time":13},{"id":2,"title":"Level 2","waves":5,"ducks":3,"pointsPerDuck":100,"speed":6,"bullets":4,"radius":60,"time":10},{"id":3,"title":"Level 3","waves":6,"ducks":3,"pointsPerDuck":100,"speed":7,"bullets":4,"radius":60,"time":10},{"id":4,"title":"Level 4","waves":3,"ducks":10,"pointsPerDuck":100,"speed":7,"bullets":11,"radius":60,"time":18},{"id":5,"title":"Level 5","waves":5,"ducks":2,"pointsPerDuck":100,"speed":8,"bullets":3,"radius":60,"time":13},{"id":6,"title":"Level 6","waves":1,"ducks":15,"pointsPerDuck":100,"speed":8,"bullets":15,"radius":60,"time":25}]}
+module.exports = {"normal":[{"id":1,"title":" HIT AS MANY GPUS AS YOU CAN!","waves":1,"ducks":12,"pointsPerDuck":100,"speed":5,"bullets":16,"radius":60,"time":15}]}
 
 /***/ }),
 /* 326 */
