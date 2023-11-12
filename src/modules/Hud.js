@@ -31,7 +31,7 @@ class Hud extends Container {
         fontFamily: 'Arial',
         fontSize: '18px',
         align: 'left',
-        fill: 'white'
+        fill: 'black'
       },
       location: new Point(0, 0),
       anchor: {

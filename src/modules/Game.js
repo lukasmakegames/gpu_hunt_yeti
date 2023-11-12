@@ -13,7 +13,7 @@ const BOTTOM_LINK_STYLE = {
   fontFamily: 'Arial',
   fontSize: '15px',
   align: 'left',
-  fill: 'white'
+  fill: 'black'
 };
 
 class Game {
@@ -148,7 +148,7 @@ class Game {
             fontFamily: 'Arial',
             fontSize: '18px',
             align: 'left',
-            fill: 'white'
+            fill: 'black'
           },
           location: Stage.scoreBoxLocation(),
           anchor: {
@@ -189,7 +189,7 @@ class Game {
             fontFamily: 'Arial',
             fontSize: '14px',
             align: 'center',
-            fill: 'white'
+            fill: 'black'
           },
           location: Stage.waveStatusBoxLocation(),
           anchor: {
@@ -230,7 +230,7 @@ class Game {
             fontFamily: 'Arial',
             fontSize: '40px',
             align: 'left',
-            fill: 'white'
+            fill: 'black'
           },
           location: Stage.gameStatusBoxLocation()
         });
