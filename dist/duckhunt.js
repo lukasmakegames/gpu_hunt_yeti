@@ -48897,7 +48897,7 @@ module.exports = {"src":["audio.ogg","audio.mp3"],"sprite":{"barkDucks":[0,1462.
 /* 325 */
 /***/ (function(module, exports) {
 
-module.exports = {"normal":[{"id":1,"title":" HIT AS MANY GPUS AS YOU CAN!","waves":1,"ducks":12,"pointsPerDuck":100,"speed":5,"bullets":16,"radius":60,"time":15}]}
+module.exports = {"normal":[{"id":1,"title":" HIT AS MANY GPUS AS YOU CAN!","waves":1,"ducks":12,"pointsPerDuck":1,"speed":8,"bullets":10,"radius":30,"time":15}]}
 
 /***/ }),
 /* 326 */
